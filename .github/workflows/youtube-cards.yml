@@ -14,7 +14,7 @@ jobs:
           channel_id: UCKMWXwHYoy920OFEN_BM5VQ
           comment_tag_name: YOUTUBE-CARDS
           max_videos: 3
-          theme_context_light: '{ "background_color": "transparent", "title_color": "#24292f", "stats_color": "#57606a" }'
-          theme_context_dark: '{ "background_color": "transparent", "title_color": "#ffffff", "stats_color": "#dedede" }'
+          theme_context_light: '{ "background_color": "#ffffff", "title_color": "#24292f", "stats_color": "#57606a" }'
+          theme_context_dark: '{ "background_color": "#0f0f0f", "title_color": "#ffffff", "stats_color": "#dedede" }'
           youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
           show_duration: true
