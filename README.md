@@ -14,7 +14,12 @@ Sobre mí:
 [![Hice un RELOJ BINARIO con HTML, CSS y JS  (y lo publicamos!)](https://ytcards.demolab.com/?id=NWV4cmjtRW4&title=Hice+un+RELOJ+BINARIO+con+HTML%2C+CSS+y+JS++%28y+lo+publicamos%21%29&lang=en&timestamp=1671970501&background_color=%230f0f0f&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=362 "Hice un RELOJ BINARIO con HTML, CSS y JS  (y lo publicamos!)")](https://www.youtube.com/watch?v=NWV4cmjtRW4#gh-dark-mode-only)[![Hice un RELOJ BINARIO con HTML, CSS y JS  (y lo publicamos!)](https://ytcards.demolab.com/?id=NWV4cmjtRW4&title=Hice+un+RELOJ+BINARIO+con+HTML%2C+CSS+y+JS++%28y+lo+publicamos%21%29&lang=en&timestamp=1671970501&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&width=250&duration=362 "Hice un RELOJ BINARIO con HTML, CSS y JS  (y lo publicamos!)")](https://www.youtube.com/watch?v=NWV4cmjtRW4#gh-light-mode-only)
 <!-- END YOUTUBE-CARDS -->
 
-Mis redes sociales 👇
+### Últimos posts de mi Blog
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+### Mis redes sociales 👇
 
 [![YouTube channel](https://img.shields.io/youtube/channel/subscribers/UCKMWXwHYoy920OFEN_BM5VQ?style=social)](https://www.youtube.com/@doneberdev)
  . [![TikTok account](https://img.shields.io/endpoint?logo=TikTok&style=social&url=https%3A%2F%2Fdoneber.dev%2Ftiktok-counter%2F)](https://www.tiktok.com/@doneberdev)
