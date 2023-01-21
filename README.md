@@ -30,11 +30,11 @@
 ### Últimos posts de mi Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Como aprender JavaScript, recursos gratuitos](https://doneber.dev/blog/como-aprender-javascript-recursos-gratuitos/)
 - [Personaliza tu perfil de GitHub y aprovecha GH Actions](https://doneber.dev/blog/personaliza-tu-perfil-de-github-y-aprovecha-gh-actions/)
 - [Todo sobre GitHub](https://doneber.dev/blog/todo-sobre-github/)
 - [Hora de definir metas](https://doneber.dev/blog/hora-de-definir-metas/)
 - [Linux en Window con WSL](https://doneber.dev/blog/linux-en-window-con-wsl/)
-- [Git Workflow](https://doneber.dev/blog/git-workflow/)
 <!-- BLOG-POST-LIST:END -->
  
 ---
