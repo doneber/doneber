@@ -30,7 +30,7 @@
 ### Últimos posts de mi Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [Necesitas practicar tu mecanografia&quot;](https://doneber.dev/blog/necesitas-practicar-tu-mecanografia/)
+- [Necesitas practicar tu mecanografia](https://doneber.dev/blog/necesitas-practicar-tu-mecanografia/)
 - [El CV definitivo](https://doneber.dev/blog/el-cv-definitivo/)
 - [¿Que es realmente un portafolio?](https://doneber.dev/blog/que-es-realmente-un-portafolio/)
 - [Despliega tu Aplicación Monorepo &lpar;backend y frontend&rpar; con Vercel](https://doneber.dev/blog/despliega-tu-aplicaci%C3%B3n-monorepo-backend-y-frontend-con-vercel/)
