@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  deploy_first_channel:
+  deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Obtener videos del primer canal
@@ -18,10 +18,7 @@ jobs:
           theme_context_dark: '{ "background_color": "#0f0f0f", "title_color": "#ffffff", "stats_color": "#dedede" }'
           youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
           show_duration: true
-
-  deploy_second_channel:
-    runs-on: ubuntu-latest
-    steps:
+      
       - name: Obtener videos del segundo canal
         uses: DenverCoder1/github-readme-youtube-cards@main
         with:
