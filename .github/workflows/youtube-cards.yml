@@ -9,10 +9,21 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: DenverCoder1/github-readme-youtube-cards@main
+      - name: Obtener videos del primer canal
+        uses: DenverCoder1/github-readme-youtube-cards@main
         with:
           channel_id: UCKMWXwHYoy920OFEN_BM5VQ
-          comment_tag_name: YOUTUBE-CARDS
+          comment_tag_name: YOUTUBE-CARDS-FIRST
+          max_videos: 3
+          theme_context_dark: '{ "background_color": "#0f0f0f", "title_color": "#ffffff", "stats_color": "#dedede" }'
+          youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
+          show_duration: true
+      
+      - name: Obtener videos del segundo canal
+        uses: DenverCoder1/github-readme-youtube-cards@main
+        with:
+          channel_id: UCRC7LM5vAZMxS8LSo0PKZng
+          comment_tag_name: YOUTUBE-CARDS-SECOND
           max_videos: 3
           theme_context_dark: '{ "background_color": "#0f0f0f", "title_color": "#ffffff", "stats_color": "#dedede" }'
           youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
