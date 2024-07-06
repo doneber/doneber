@@ -1,9 +1,8 @@
 ### Sobre mí
-- Programo cosas 🧑‍💻
-- Hago videos dev 🧑‍🏫
+Programo cosas 🧑‍💻
 
 ---
-### Lenguajes, frameworks & tools
+### Lenguajes, frameworks & herramientas favoritas
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
@@ -18,34 +17,13 @@
 <br>
 
 ---
-### Mis redes sociales
- - [![YouTube channel](https://img.shields.io/youtube/channel/subscribers/UCRC7LM5vAZMxS8LSo0PKZng?style=social)](https://www.youtube.com/channel/UCRC7LM5vAZMxS8LSo0PKZng)
- - [![YouTube channel](https://img.shields.io/youtube/channel/subscribers/UCKMWXwHYoy920OFEN_BM5VQ?style=social)](https://www.youtube.com/@doneberdev)
- - [![TikTok account](https://img.shields.io/endpoint?logo=TikTok&style=social&url=https%3A%2F%2Fdoneber.dev%2Ftiktok-counter%2F)](https://www.tiktok.com/@doneberdev)
- - [![Twitter account](https://img.shields.io/twitter/follow/doneberdev?label=Followers&style=social)](https://twitter.com/doneberdev)
- - [![Twitch account](https://img.shields.io/twitch/status/doneberdev?style=social)](https://twitch.tv/doneberdev)
- 
----
 ### Últimos posts de mi [Blog](https://doneber.dev/blog)
 
 <!-- BLOG-POST-LIST:START -->
 - [Como agregar un blog a nuestra página web con Atro](https://doneber.dev/blog/first-post/)
 <!-- BLOG-POST-LIST:END -->
+
+---
+### Otras redes sociales
+[![YouTube channel](https://img.shields.io/youtube/channel/subscribers/UCRC7LM5vAZMxS8LSo0PKZng?style=social)](https://www.youtube.com/channel/UCRC7LM5vAZMxS8LSo0PKZng) • [![YouTube channel](https://img.shields.io/youtube/channel/subscribers/UCKMWXwHYoy920OFEN_BM5VQ?style=social)](https://www.youtube.com/@doneberdev) • [![TikTok account](https://img.shields.io/endpoint?logo=TikTok&style=social&url=https%3A%2F%2Fdoneber.dev%2Ftiktok-counter%2F)](https://www.tiktok.com/@doneberdev) • [![Twitter account](https://img.shields.io/twitter/follow/doneberdev?label=Followers&style=social)](https://twitter.com/doneberdev) • [![Twitch account](https://img.shields.io/twitch/status/doneberdev?style=social)](https://twitch.tv/doneberdev)
  
----
-### Últimos videos de mi canal principal de YouTube:
-
-<!-- BEGIN YOUTUBE-CARDS-FIRST -->
-[![#dev #code #20demarzo #felicidad #tech](https://ytcards.demolab.com/?id=dN7uesqZAFo&title=%23dev+%23code+%2320demarzo+%23felicidad+%23tech&lang=en&timestamp=1710960162&background_color=%230f0f0f&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=27 "#dev #code #20demarzo #felicidad #tech")](https://www.youtube.com/watch?v=dN7uesqZAFo#gh-dark-mode-only)[![#dev #code #20demarzo #felicidad #tech](https://ytcards.demolab.com/?id=dN7uesqZAFo&title=%23dev+%23code+%2320demarzo+%23felicidad+%23tech&lang=en&timestamp=1710960162&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=27 "#dev #code #20demarzo #felicidad #tech")](https://www.youtube.com/watch?v=dN7uesqZAFo#gh-light-mode-only)
-[![Programar y hacer Videos de desarrollo: Mi experiencia](https://ytcards.demolab.com/?id=ZS8YIceH68I&title=Programar+y+hacer+Videos+de+desarrollo%3A+Mi+experiencia&lang=en&timestamp=1707165785&background_color=%230f0f0f&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=604 "Programar y hacer Videos de desarrollo: Mi experiencia")](https://www.youtube.com/watch?v=ZS8YIceH68I#gh-dark-mode-only)[![Programar y hacer Videos de desarrollo: Mi experiencia](https://ytcards.demolab.com/?id=ZS8YIceH68I&title=Programar+y+hacer+Videos+de+desarrollo%3A+Mi+experiencia&lang=en&timestamp=1707165785&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=604 "Programar y hacer Videos de desarrollo: Mi experiencia")](https://www.youtube.com/watch?v=ZS8YIceH68I#gh-light-mode-only)
-[![#cli y la #terminal #Linux #webdev](https://ytcards.demolab.com/?id=bCUtGyGSQ8c&title=%23cli+y+la+%23terminal+%23Linux+%23webdev&lang=en&timestamp=1705118475&background_color=%230f0f0f&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=54 "#cli y la #terminal #Linux #webdev")](https://www.youtube.com/watch?v=bCUtGyGSQ8c#gh-dark-mode-only)[![#cli y la #terminal #Linux #webdev](https://ytcards.demolab.com/?id=bCUtGyGSQ8c&title=%23cli+y+la+%23terminal+%23Linux+%23webdev&lang=en&timestamp=1705118475&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=54 "#cli y la #terminal #Linux #webdev")](https://www.youtube.com/watch?v=bCUtGyGSQ8c#gh-light-mode-only)
-<!-- END YOUTUBE-CARDS-FIRST -->
-
----
-### Últimos videos de mi canal secundario de YouTube:
-
-<!-- BEGIN YOUTUBE-CARDS-SECOND -->
-[![También debemos trabajar en nosotros | Buscando trabajo #dia03](https://ytcards.demolab.com/?id=lsiymX-ydzE&title=Tambi%C3%A9n+debemos+trabajar+en+nosotros+%7C+Buscando+trabajo+%23dia03&lang=en&timestamp=1720147502&background_color=%230f0f0f&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=539 "También debemos trabajar en nosotros | Buscando trabajo #dia03")](https://www.youtube.com/watch?v=lsiymX-ydzE#gh-dark-mode-only)[![También debemos trabajar en nosotros | Buscando trabajo #dia03](https://ytcards.demolab.com/?id=lsiymX-ydzE&title=Tambi%C3%A9n+debemos+trabajar+en+nosotros+%7C+Buscando+trabajo+%23dia03&lang=en&timestamp=1720147502&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=539 "También debemos trabajar en nosotros | Buscando trabajo #dia03")](https://www.youtube.com/watch?v=lsiymX-ydzE#gh-light-mode-only)
-[![Resolviendo Ejercicio | Mejorando Lógica de Programacion | #06 AdventJS | Don Eber](https://ytcards.demolab.com/?id=bjuOWAjL2Rc&title=Resolviendo+Ejercicio+%7C+Mejorando+L%C3%B3gica+de+Programacion+%7C+%2306+AdventJS+%7C+Don+Eber&lang=en&timestamp=1720116019&background_color=%230f0f0f&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=771 "Resolviendo Ejercicio | Mejorando Lógica de Programacion | #06 AdventJS | Don Eber")](https://www.youtube.com/watch?v=bjuOWAjL2Rc#gh-dark-mode-only)[![Resolviendo Ejercicio | Mejorando Lógica de Programacion | #06 AdventJS | Don Eber](https://ytcards.demolab.com/?id=bjuOWAjL2Rc&title=Resolviendo+Ejercicio+%7C+Mejorando+L%C3%B3gica+de+Programacion+%7C+%2306+AdventJS+%7C+Don+Eber&lang=en&timestamp=1720116019&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=771 "Resolviendo Ejercicio | Mejorando Lógica de Programacion | #06 AdventJS | Don Eber")](https://www.youtube.com/watch?v=bjuOWAjL2Rc#gh-light-mode-only)
-[![Sin miedo al éxito, buscando ofertas de programador 🤔 | Buscando trabajo #dia02](https://ytcards.demolab.com/?id=6fwL9XrnK8Q&title=Sin+miedo+al+%C3%A9xito%2C+buscando+ofertas+de+programador+%F0%9F%A4%94+%7C+Buscando+trabajo+%23dia02&lang=en&timestamp=1720043420&background_color=%230f0f0f&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1710 "Sin miedo al éxito, buscando ofertas de programador 🤔 | Buscando trabajo #dia02")](https://www.youtube.com/watch?v=6fwL9XrnK8Q#gh-dark-mode-only)[![Sin miedo al éxito, buscando ofertas de programador 🤔 | Buscando trabajo #dia02](https://ytcards.demolab.com/?id=6fwL9XrnK8Q&title=Sin+miedo+al+%C3%A9xito%2C+buscando+ofertas+de+programador+%F0%9F%A4%94+%7C+Buscando+trabajo+%23dia02&lang=en&timestamp=1720043420&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1710 "Sin miedo al éxito, buscando ofertas de programador 🤔 | Buscando trabajo #dia02")](https://www.youtube.com/watch?v=6fwL9XrnK8Q#gh-light-mode-only)
-<!-- END YOUTUBE-CARDS-SECOND -->
