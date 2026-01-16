@@ -20,7 +20,7 @@ Programo cosas 🧑‍💻
 ### Últimos posts de mi [Blog](https://doneber.dev/blog)
 
 <!-- BLOG-POST-LIST:START -->
-- [Como agregar un blog a nuestra página web con Atro](https://doneber.dev/blog/undefined/)
+- [Como agregar un blog a nuestra página web con Astro](https://doneber.dev/blog/undefined/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
