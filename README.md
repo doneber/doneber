@@ -20,7 +20,7 @@ Programo cosas 🧑‍💻
 ### Últimos posts de mi [Blog](https://doneber.dev/blog)
 
 <!-- BLOG-POST-LIST:START -->
-- [He lanzado mi Blog &lpar;otra vez&rpar;](https://doneber.dev/blog/undefined/)
+- [He lanzado mi Blog &lpar;otra vez&rpar;](https://doneber.dev/blog/blog-launched/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
