@@ -20,6 +20,8 @@ Programo cosas 🧑‍💻
 ### Últimos posts de mi [Blog](https://doneber.dev/blog)
 
 <!-- BLOG-POST-LIST:START -->
+- [&quot;Eso lo hace la IA en cinco minutos&quot;](https://doneber.dev/blog/ai-can-do-it-in-five-minutes/)
+- [Por qué el framework Astro](https://doneber.dev/blog/why-astro-framework/)
 - [He lanzado mi Blog &lpar;otra vez&rpar;](https://doneber.dev/blog/blog-launched/)
 <!-- BLOG-POST-LIST:END -->
 
